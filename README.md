@@ -10,6 +10,10 @@
 ### 스터디 일정
 매주 수요일 오후 8시
 
+### 깃 커밋 메세지 컨벤션
+(git닉네임) - (이벤트 메세지)
+> 예) zouamare - 1주차 3문제 등록
+
 ## 스터디원
 [@zouamare](https://github.com/zouamare)
 [@1-Hee](https://github.com/1-Hee)
