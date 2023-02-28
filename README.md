@@ -18,7 +18,7 @@
 
 ## 스터디 풀이
 <details>
-<summary>230222 ~ 230301</summary>
+<summary> 1주차 (230222 ~ 230301)</summary>
 <div markdown="1">
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">[3차] 파일명 정렬</a>
 <br>
