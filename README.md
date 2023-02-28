@@ -15,10 +15,13 @@
 > 예) zouamare - 1주차 3문제 등록
 
 ## 스터디원
-[@zouamare](https://github.com/zouamare)
-[@1-Hee](https://github.com/1-Hee)
-[@esovo](https://github.com/esovo)
-[@joykst96](https://github.com/joykst96)
+| <img  src="./img/zouamare_profile.jpg"  width="100"  height="100"/> | 이미지 | 이미지 | 이미지 |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| [@zouamare](https://github.com/zouamare) | [@1-Hee](https://github.com/1-Hee) | [@esovo](https://github.com/esovo) | [@joykst96](https://github.com/joykst96) |
+
+
+
+
 
 ## 스터디 풀이
 <details>
