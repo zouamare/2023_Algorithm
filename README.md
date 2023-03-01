@@ -15,9 +15,10 @@
 > 예) zouamare - 1주차 3문제 등록
 
 ## 스터디원
-| <img  src="./img/zouamare_profile.jpg"  width="150"  height="150"/> | 이미지 | 이미지 | 이미지 |
+| <img  src="./img/zouamare_profile.jpg"  width="150"  height="150"/> | <img src="https://user-images.githubusercontent.com/79094527/222068991-47d910e1-caee-40b7-adfd-7bf8e5b24ff7.png" width="150"  height="150"/> | 이미지 | 이미지 |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | [@zouamare](https://github.com/zouamare) | [@1-Hee](https://github.com/1-Hee) | [@esovo](https://github.com/esovo) | [@joykst96](https://github.com/joykst96) |
+
 
 
 
