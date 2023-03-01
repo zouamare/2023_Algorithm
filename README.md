@@ -28,10 +28,21 @@
 <details>
 <summary> 1주차 (230222 ~ 230301)</summary>
 <div markdown="1">
-- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686">[3차] 파일명 정렬</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686" target="_blank">[3차] 파일명 정렬</a>
 <br>
-- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">두큐 합 같게 만들기</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667" target="_blank">두큐 합 같게 만들기</a>
 <br>
-- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81303">표 편집</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81303" target="_blank">표 편집</a>
+</div>
+</details>
+
+<details>
+<summary> 2주차 (230302 ~ 230308)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064" target="_blank">불량 사용자 (2019 카카오 개발자 겨울 인턴십) </a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669" target="_blank">등산코스 정하기 (2022 KAKAO TECH INTERNSHIP)</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1831" target="_blank">4단 고음 (2017 카카오코드 예선)</a>
 </div>
 </details>
