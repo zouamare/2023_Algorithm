@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary> 3주차 (230323 ~ 230329)</summary>
+<summary> 4주차 (230323 ~ 230329)</summary>
 <div markdown="1">
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169199" target="_blank"> 리코쳇 로봇 </a>
 <br>
