@@ -46,3 +46,14 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1831" target="_blank">4단 고음 (2017 카카오코드 예선)</a>
 </div>
 </details>
+
+<details>
+<summary> 3주차 (230323 ~ 230329)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169199" target="_blank"> 리코쳇 로봇 </a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁대회</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">거리두기 확인하기</a>
+</div>
+</details>
