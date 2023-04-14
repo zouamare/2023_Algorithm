@@ -1,30 +1,33 @@
 # 2023년 상반기 알고리즘 스터디 문제풀이 모음
 
 ## 스터디 정보
+
 ### 목적
+
 개발자 취업을 위한 필수 덕목인 코딩테스트 역량 향상
 
 ### 진행 기간
+
 2023-02-22 ~ ?
 
 ### 스터디 일정
+
 매주 수요일 오후 8시
 
 ### 깃 커밋 메세지 컨벤션
+
 (git닉네임) - (이벤트 메세지)
+
 > 예) zouamare - 1주차 3문제 등록
 
 ## 스터디원
-| <img  src="./img/zouamare_profile.jpg"  width="150"  height="150"/> | <img src="https://user-images.githubusercontent.com/79094527/222068991-47d910e1-caee-40b7-adfd-7bf8e5b24ff7.png" width="150"  height="150"/> | <img src="https://user-images.githubusercontent.com/81341162/222143220-c4e1daab-53e7-4265-a62e-9b8260f7a88c.png" height="150" width="150"/> | <img src="https://user-images.githubusercontent.com/68246479/223333698-86d84075-2332-4ef7-8ece-cd68e769da52.png" height="150" width="150"/>|
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| [@zouamare](https://github.com/zouamare) | [@1-Hee](https://github.com/1-Hee) | [@esovo](https://github.com/esovo) | [@joykst96](https://github.com/joykst96) |
 
-
-
-
-
+| <img  src="./img/zouamare_profile.jpg"  width="150"  height="150"/> | <img src="https://user-images.githubusercontent.com/79094527/222068991-47d910e1-caee-40b7-adfd-7bf8e5b24ff7.png" width="150"  height="150"/> | <img src="https://user-images.githubusercontent.com/81341162/222143220-c4e1daab-53e7-4265-a62e-9b8260f7a88c.png" height="150" width="150"/> | <img src="https://user-images.githubusercontent.com/68246479/223333698-86d84075-2332-4ef7-8ece-cd68e769da52.png" height="150" width="150"/> |
+| :-----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|              [@zouamare](https://github.com/zouamare)               |                                                      [@1-Hee](https://github.com/1-Hee)                                                      |                                                     [@esovo](https://github.com/esovo)                                                      |                                                  [@joykst96](https://github.com/joykst96)                                                   |
 
 ## 스터디 풀이
+
 <details>
 <summary> 1주차 (230222 ~ 230301)</summary>
 <div markdown="1">
@@ -55,5 +58,25 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁대회</a>
 <br>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">거리두기 확인하기</a>
+</div>
+</details>
+
+<details>
+<summary> 5주차 (230330 ~ 230409)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1829" target="_blank">카카오 프렌즈 컬러링북</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172927" target="_blank">광물 캐기</a>
+</div>
+</details>
+
+<details>
+<summary> 6주차 (230410 ~ 230416)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176962" target="_blank">과제 진행하기</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152995" target="_blank">인사 고과</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678" target="_blank">[1차] 셔틀버스</a>
 </div>
 </details>
