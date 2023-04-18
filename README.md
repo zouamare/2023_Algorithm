@@ -80,3 +80,14 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678" target="_blank">[1차] 셔틀버스</a>
 </div>
 </details>
+
+<details>
+<summary> 7주차 (230417 ~ 230423)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540" target="_blank">무인도 여행</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512" target="_blank">모음사전</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127" target="_blank">할인 행사</a>
+</div>
+</details>
