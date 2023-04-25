@@ -91,3 +91,15 @@
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127" target="_blank">할인 행사</a>
 </div>
 </details>
+
+<details>
+<summary> 8주차 (230424 ~ 230430)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/178870" target="_blank">연속된 부분 수열의 합</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369" target="_blank">택배 배달과 수거하기</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92344" target="_blank">파괴되지 않은 건물
+</a>
+</div>
+</details>
