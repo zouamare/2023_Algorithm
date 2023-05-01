@@ -1,11 +1,9 @@
-package com.java.week7;
-
+package com.java.week8;
 import java.util.*;
 
 public class Solution1 {
 	
-	
-	private static class Point implements Comparable<Point>{
+    private static class Point implements Comparable<Point>{
         int left, right;
         Point(int left, int right){
             this.left = left;
@@ -16,7 +14,8 @@ public class Solution1 {
         public String toString(){
             return "Point ["+this.left+", "+this.right+"]";
         }
-            
+        
+     
         @Override
         public int compareTo(Point o){
             return this.left - o.left;
@@ -25,72 +24,50 @@ public class Solution1 {
     }
     
     public int[] solution(int[] sequence, int k) {
-    	/*
-    	 * power set을 통해 풀어봤는데, 전형적인 투포인터 문제라 그런지 터졌습니다.
-    	 * 근데 제가 투포인터 알고리즘을 몰라서 이번에 제대로 배웠습니다!
-    	 * 
-    	 * 본 문제는 투포인터를 통해 1차원 배열을 순회하여, 부분합이 k가 되는지 체크하는 문제였습니다.
-    	 * 
-    	 * 그러나, 동일한 부분합을 가지는 여러가지 경우의 수가 있을 수 있는데,
-    	 * 이 때에는 다음의 우선순위에 따라 값을 리턴해야 합니다.
-    	 * 1) 시작점과 끝 점의 차이가 최소인 경우
-    	 * 2) 1)의 조건이 동일하다면 시작점의 인덱스가 더 작은 경우
-    	 * 
-    	 */
         
-    	
-    	// 투포인터를 위한 기본 세팅
-        int left = 0; 
+        int left = 0;
         int right = 0;
-        int N = sequence.length;
-        int sum = sequence[left]; // 부분합 init; 
+        int N = sequence.length;        
+        int sum = sequence[left]; 
         
-        ArrayList<Point> points = new ArrayList<>(); // 부분합이 k인 경우를 저장하기 위한 ArrayList;
+        ArrayList<Point> points = new ArrayList<>();
         
-        while(true){            
-            if(sum==k){
-            	// right나 left를 < N 까지 증가시키므로 right=N인 경우가 오기도 해서,
-            	// left나 right가 N인 경우에는 값을 담지 않도록 조건식을 걸어봤습니다.
-                if(left < N && right < N){
-                    points.add(new Point(left, right));
+        // 배열의 끝까지 반복문을 돌며 포인터 두개를 이동합니다.
+        while(true){           	
+            if(sum==k){ // 문제에서 원하는 부분합인지 체크
+                if(left < N && right < N){ // 두 포인터 모두 유효한 범위 이내라면,
+                    points.add(new Point(left, right)); // 두 포인터의 좌표를 저장합니다.
                 }
-            }            
-            if(left == N && right == N) break; // 종료 조건
+            }
             
-            if(sum <= k && right < N){ // right만 overflow하지 않도록 조건식 설정
-            	
-                right++; // 포인터 이동 후의 값을 더해주어야 하기 때문에 right를 먼저 증가시켜준다.
-                
-                if(right < N ) sum += sequence[right]; // 조건식을 통해 index Exception 방지
-                
+            if(left == N && right == N) break; // 두 포인터 모두 끝까지 이동했다면, 반복을 종료합니다.
+            
+            if(sum <= k && right < N){ // 부분합보다 작거나 같다 -> 포인터의 이동이 필요하다 + right 포인터의 범위 제한을 위한 조건식
+                right++; // 포인터를 먼저 이동해주고
+                if(right < N ) sum += sequence[right]; // 부분합을 더하는데, 만약 포인터가 배열의 범위를 벗어난다면 연산을 하지 않아야 한다.
             }else {
-            	
-            	// 조건식을 통해 index Exception 방지 
-                if(left < N) sum -= sequence[left]; // 포인터를 이동하기전 미리 값을 뺀 후 이동해줘야 하기 때문에 이 경우는 left에 대한 증가가 나중에 이루어진다.
-                left++; 
+                if(left < N) sum -= sequence[left]; // 부분합을 빼는데, 먼저 값을 빼주어야 한다.
+                left++; // 포인터를 이동
             }                        
         }
                 
-        int diff = Integer.MAX_VALUE; // 최소 gap 비교를 위해 초기 값 init
-        int from = -1; // index로 나올 수 없는 값으로 init
+        int diff = Integer.MAX_VALUE; // 최소 값 비교를 위한 초기값 설정
+        int from = -1; // 그냥 설정
         int to = -1;
         
-        Collections.sort(points); // 정렬을 통해 자연스레 오름차 순으로 탐색할 수 있도록 함.
+        // 좌표를 담은 point 객체의 우선순위를 
+        // left 좌표의 오름차 순으로 설정했기 때문에 left 좌표의 오름차 순으로 정렬된다.
+        Collections.sort(points); 
         
-        for(Point p : points){
-            if(diff > p.right - p.left){ 
-            	// 이 조건식을 통해 동일한 gap이 반복되는 
-            	// 3번 테스트 케이스에 대해 대응이 가능하며 자연스럽게 오름차순으로 갱신이 된다.
-            	
-                diff = p.right - p.left;
-                from = p.left;
-                to = p.right;
-                
+        for(Point p : points){ // ArrayList의 크기만큼 순회하면서
+            if(diff > p.right - p.left){ // 두 좌표의 차이가 최소치를 갱신한다면(>=로 비교하지 않으므로 같은 경우는 무시된다)
+                diff = p.right - p.left; // 최소차를 갱신하고
+                from = p.left; // 좌표를 저장한다.
+                to = p.right; 
             }
         }
-        
-        
-        int[] answer = {from, to};
+                
+        int[] answer = {from, to}; // 반복문을 돈 후 구해진 최소 좌표들의 배열을 리턴
         return answer;
     }
 
