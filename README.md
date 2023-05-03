@@ -51,6 +51,17 @@
 </details>
 
 <details>
+<summary> 3주차 (230309 ~ 230322)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412" target="_blank">순위 검색</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승 택시 요금 </a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17684" target="_blank">압축</a>
+</div>
+</details>
+
+<details>
 <summary> 4주차 (230323 ~ 230329)</summary>
 <div markdown="1">
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169199" target="_blank"> 리코쳇 로봇 </a>
@@ -101,5 +112,15 @@
 <br>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92344" target="_blank">파괴되지 않은 건물
 </a>
+</div>
+</details>
+
+<details>
+<summary> 9주차 (230431 ~ 230507)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345" target="_blank">연속된 부분 수열의 합</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679 " target="_blank">[1차] 프렌즈4블록</a>
+<br>
 </div>
 </details>
