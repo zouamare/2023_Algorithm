@@ -35,6 +35,7 @@ public class Solution5 {
         		if(map[b.r][b.c]=='.') continue;
         		map[b.r][b.c] = '.';
         		++cnt;
+						
         	}
         	
         	if(cnt==0) break;
