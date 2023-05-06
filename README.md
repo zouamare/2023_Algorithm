@@ -118,7 +118,7 @@
 <details>
 <summary> 9주차 (230431 ~ 230507)</summary>
 <div markdown="1">
-- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345" target="_blank">연속된 부분 수열의 합</a>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345" target="_blank">사라지는 발판</a>
 <br>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679 " target="_blank">[1차] 프렌즈4블록</a>
 <br>
