@@ -116,11 +116,21 @@
 </details>
 
 <details>
-<summary> 9주차 (230431 ~ 230507)</summary>
+<summary> 9주차 (230431 ~ 230521)</summary>
 <div markdown="1">
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92345" target="_blank">사라지는 발판</a>
 <br>
 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679 " target="_blank">[1차] 프렌즈4블록</a>
+<br>
+</div>
+</details>
+
+<details>
+<summary> 10주차 (230522 ~ 230528)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677" target="_blank">[1차] 뉴스 클러스터링</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150370" target="_blank">개인정보 수집 유효기간</a>
 <br>
 </div>
 </details>
