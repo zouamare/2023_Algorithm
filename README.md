@@ -134,3 +134,15 @@
 <br>
 </div>
 </details>
+
+<details>
+<summary> 11주차 (230529 ~ 230604)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42892" target="_blank">길 찾기 게임</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258" target="_blank">[카카오 인턴] 보석 쇼핑</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1836" target="_blank">리틀 프렌즈 사천성</a>
+<br>
+</div>
+</details>
