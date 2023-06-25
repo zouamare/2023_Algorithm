@@ -146,3 +146,109 @@
 <br>
 </div>
 </details>
+
+<details width="100%">
+<summary> 12주차 (230605 ~ 230626) | 보충 알고리즘 (못 푼 문제 택 2) </summary>
+<div markdown="1" width="100%">
+<div width="100%" class="zouamare">
+    <h4>zouamare</h4>
+    <table width="100%" style="text-align: left;">
+        <thead class="separate" width="100%">
+        <tr>
+            <th>문제</th>
+            <th>링크(link)</th>	
+        </tr>
+        </thead>
+        <tbody width="100%">
+            <tr class="problem1">
+                <td>-</td>
+                <td>
+                    <a></a>
+                </td>
+            </tr>
+            <tr class="problem2">
+                <td>-</td>
+                <td>
+                    <a></a>
+                </td>
+            </tr>		
+        </tbody>
+    </table>
+</div>
+<div width="100%" class="1-hee">
+    <h4>1-hee</h4>
+    <table width="100%" style="text-align: left;">
+        <thead class="separate" width="100%">
+        <tr>
+            <th>문제</th>
+            <th>링크(link)</th>	
+        </tr>
+        </thead>
+        <tbody width="100%">
+            <tr class="problem1">
+                <td>[1차] 뉴스 클러스터링</td>
+                <td>
+                    <a>https://school.programmers.co.kr/learn/courses/30/lessons/17677</a>
+                </td>                
+            </tr>
+            <tr class="problem2">
+                <td>광물캐기</td>
+                <td>
+                    <a>https://school.programmers.co.kr/learn/courses/30/lessons/172927</a>
+                </td>
+            </tr>		
+        </tbody>
+    </table>
+</div>
+<div width="100%" class="esovo">
+    <h4>esovo</h4>
+    <table width="100%" style="text-align: left;">
+        <thead class="separate" width="100%">
+        <tr>
+            <th>문제</th>
+            <th>링크(link)</th>	
+        </tr>
+        </thead>
+        <tbody width="100%">
+            <tr class="problem1">
+                <td>-</td>
+                <td>
+                    <a></a>
+                </td>
+            </tr>
+            <tr class="problem2">
+                <td>-</td>
+                <td>
+                    <a></a>
+                </td>
+            </tr>		
+        </tbody>
+    </table>
+</div>
+<div width="100%" class="joykst96">
+    <h4>joykst96</h4>
+    <table width="100%" style="text-align: left;">
+        <thead class="separate" width="100%">
+        <tr>
+            <th>문제</th>
+            <th>링크(link)</th>	
+        </tr>
+        </thead>
+        <tbody width="100%">
+            <tr class="problem1">
+                <td>-</td>
+                <td>
+                    <a></a>
+                </td>
+            </tr>
+            <tr class="problem2">
+                <td>-</td>
+                <td>
+                    <a></a>
+                </td>
+            </tr>		
+        </tbody>
+    </table>
+</div>
+</div>
+</details>
