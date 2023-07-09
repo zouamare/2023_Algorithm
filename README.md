@@ -147,6 +147,7 @@
 </div>
 </details>
 
+<!-- 12주차 -->
 <details width="100%">
 <summary> 12주차 (230605 ~ 230626) | 보충 알고리즘 (못 푼 문제 택 2) </summary>
 <div markdown="1" width="100%">
@@ -252,3 +253,45 @@
 </div>
 </div>
 </details>
+
+<!--  -->
+
+<!-- 7월 2주차 -->
+<details width="100%">
+<summary> 7월 2주차 (230703 ~ 230709) | 보충 알고리즘 (못 푼 문제 택 2) </summary>
+<div markdown="1" width="100%">
+<div width="100%" class="zouamare">
+    <h4>zouamare</h4>
+    <ul>
+        <li>거리두기 확인하기</li>
+        <li>셔틀버스</li>
+    </ul>
+</div>
+<div width="100%" class="1-hee">
+    <h4>1-hee</h4>
+    <ul>
+        <li>3차 압축</li>
+        <li>개인정보 수집 유효기간</li>
+    </ul>    
+</div>
+<div width="100%" class="esovo">
+    <h4>esovo</h4>
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>    
+</div>
+<div width="100%" class="joykst96">
+    <h4>joykst96</h4>
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>    
+</div>
+</div>
+</details>
+<!-- -->
+
+<!-- TODO -->
+
+<!-- -->
