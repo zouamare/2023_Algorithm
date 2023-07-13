@@ -292,6 +292,19 @@
 </details>
 <!-- -->
 
+<!-- 7월 3주차  -->
+<details>
+<summary> 7월 3주차 (230709 ~ 230715)</summary>
+<div markdown="1">
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062" target="_blank">외벽 점검</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">기둥과 보 설치</a>
+<br>
+- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368" target="_blank">이모티콘 할인행사</a>
+<br>
+</div>
+</details>
+
 <!-- TODO -->
 
 <!-- -->
