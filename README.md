@@ -152,8 +152,8 @@
 <summary> 12주차 (230605 ~ 230626) | 보충 알고리즘 (못 푼 문제 택 2) </summary>
 <div markdown="1">
 <ul>
- <li>[1차] 뉴스 클러스터링 | <a>https://school.programmers.co.kr/learn/courses/30/lessons/17677</a></li>
- <li>광물 캐기 | <a>https://school.programmers.co.kr/learn/courses/30/lessons/172927</a></li>
+ <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17677">[1차] 뉴스 클러스터링</a></li>
+ <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/172927">광물 캐기</a></li>
 </ul>
 <br>
 </div>
@@ -165,11 +165,11 @@
 <summary> 7월 2주차 (230703 ~ 230709) | 보충 알고리즘 (못 푼 문제 택 2) </summary>
 <div markdown="1">
 <ul>
- <li>거리두기 확인하기 | <a>https://school.programmers.co.kr/learn/courses/30/lessons/81302</a></li>
- <li>셔틀버스 | <a>https://school.programmers.co.kr/learn/courses/30/lessons/17678</a></li>
- <li>압축 | <a>https://school.programmers.co.kr/learn/courses/30/lessons/17684</a></li>
- <li>개인정보 수집 유효기간 | <a>https://school.programmers.co.kr/learn/courses/30/lessons/150370</a></li>
-  <li>모음 사전 | <a>https://school.programmers.co.kr/learn/courses/30/lessons/84512</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/81302">거리두기 확인하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17678">셔틀버스</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/17684">압축</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150370">개인정보 수집 유효기간</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">모음 사전</a></li>
 </ul>
 <br>
 </div>
@@ -180,11 +180,25 @@
 <details>
 <summary> 7월 3주차 (230709 ~ 230715)</summary>
 <div markdown="1">
-- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062" target="_blank">외벽 점검</a>
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">외벽 점검</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061">기둥과 보 설치</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">이모티콘 할인행사</a></li>
+</ul>
 <br>
-- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60061" target="_blank">기둥과 보 설치</a>
-<br>
-- <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368" target="_blank">이모티콘 할인행사</a>
+</div>
+</details>
+
+<!-- 7월 4주차  -->
+<details>
+<summary> 7월 4주차 (230717 ~ 230723)</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366">표 병합</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/151139">대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/164670">조건에 맞는 사용자 정보 조회하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">호텔 방 배정</a></li>
+</ul>
 <br>
 </div>
 </details>
