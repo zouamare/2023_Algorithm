@@ -203,6 +203,20 @@
 </div>
 </details>
 
+<!-- 7월 5주차  -->
+<details>
+<summary> 7월 5주차 (230724 ~ 230730)</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/144856">저자 별 카테고리 별 매출액 집계하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/144855">카테고리 별 도서 판매량 집계하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1837">GPS</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1833">캠핑</a></li>
+</ul>
+<br>
+</div>
+</details>
+
 <!-- TODO -->
 
 <!-- -->
