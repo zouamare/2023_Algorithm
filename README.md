@@ -217,6 +217,21 @@
 </div>
 </details>
 
+<!-- 8월 2주차  -->
+<details>
+<summary> 7월 5주차 (230807 ~ 230813)</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/157341">대여 기록이 존재하는 자동차 리스트 구하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131118">서울에 위치한 식당 목록 출력하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a></li>
+  <li><a href="https://www.acmicpc.net/problem/2133">타일 채우기</a></li>
+  <li><a href="https://www.acmicpc.net/problem/2579">계단 오르기</a></li>
+</ul>
+<br>
+</div>
+</details>
+
 <!-- TODO -->
 
 <!-- -->
