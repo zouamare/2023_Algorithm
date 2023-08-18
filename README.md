@@ -232,6 +232,19 @@
 </div>
 </details>
 
+<!-- 8월 3주차  -->
+<details>
+<summary> 8월 3주차 (230814 ~ 230820)</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">표현 가능한 이진트리</a></li>
+  <li><a href="https://www.acmicpc.net/problem/15486">퇴사 2</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131534">상품을 구매한 회원 비율 구하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/157339">특정 기간동안 대여 가능한 자동차들의 대여비용 구하기</a></li>
+</ul>
+<br>
+</div>
+</details>
 <!-- TODO -->
 
 <!-- -->
