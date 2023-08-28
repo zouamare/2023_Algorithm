@@ -245,6 +245,20 @@
 <br>
 </div>
 </details>
+
+<!-- 8월 5주차  -->
+<details>
+<summary> 8월 5주차 (230828 ~ 230902)</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1835">단체사진 찍기</a></li>
+  <li><a href="https://www.acmicpc.net/problem/11722">가장 긴 감소하는 부분 수열</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/164671">조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/164668">조건에 맞는 사용자와 총 거래금액 조회하기</a></li>
+</ul>
+<br>
+</div>
+</details>
 <!-- TODO -->
 
 <!-- -->
