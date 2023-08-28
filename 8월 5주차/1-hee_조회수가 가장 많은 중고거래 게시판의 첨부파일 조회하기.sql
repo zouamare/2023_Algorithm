@@ -1,0 +1,11 @@
+SELECT BOARD_ID INTO @MAX_ID FROM USED_GOODS_BOARD order by VIEWS desc limit 1; -- 조회수가 가장 높은 
+
+SELECT CONCAT(
+    "/home/grep/src", "/", G.BOARD_ID, "/", F.FILE_ID, F.FILE_NAME, F.FILE_EXT
+) as FILE_PATH -- 첨부파일 경로
+FROM USED_GOODS_BOARD G
+JOIN USED_GOODS_FILE F
+ON G.BOARD_ID = F.BOARD_ID
+WHERE G.BOARD_ID = @MAX_ID
+GROUP BY G.BOARD_ID, F.FILE_ID
+order by F.FILE_ID desc; -- 첨부파일 경로는 FILE ID를 기준으로 내림차순 정렬
