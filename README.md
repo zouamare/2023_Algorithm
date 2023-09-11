@@ -268,7 +268,7 @@
   <li><a href="https://school.programmers.co.kr/learn/courses/15008/lessons/121683?language=java">PCCP 모의고사 1회</a></li>
   <li><a href="https://school.programmers.co.kr/learn/courses/15009/lessons/121687?language=java">PCCP 모의고사 2회</a></li>
   <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133027">주문량이 많은 아이스크림들 조회하기</a></li>
-  <li><a href="https://school.programmers.co.kr/learn/courses/30/">인기있는 아이스크림</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/133024">인기있는 아이스크림</a></li>
 </ul>
 <br>
 </div>
