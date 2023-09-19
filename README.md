@@ -274,6 +274,20 @@
 </div>
 </details>
 
+<!-- 9월 4주차  -->
+<details>
+<summary> 9월 4주차 (230918 ~ 230924)</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131536">재구매가 일어난 상품과 회원 리스트 구하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131113">조건별로 분류하여 주문상태 출력하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">후보키</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/60059">자물쇠와 열쇠</a></li>  
+</ul>
+<br>
+</div>
+</details>
+
 <!-- TODO -->
 
 <!-- -->
