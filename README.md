@@ -288,6 +288,20 @@
 </div>
 </details>
 
+<!-- 10월 2주차  -->
+<details>
+<summary> 10월 2주차 (230925 ~ 231007)</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/67260">[카카오 인턴] 동굴 탐험</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/42893">매칭 점수</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131123">즐겨찾기가 가장 많은 식당 정보 출력하기</a></li>
+  <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/131530">가격대 별 상품 개수 구하기</a></li>  
+</ul>
+<br>
+</div>
+</details>
+
 <!-- TODO -->
 
 <!-- -->
