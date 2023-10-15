@@ -51,7 +51,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230301</a>
+            <a href="./ALGO_230301">ALGO_230301</a>
           </td>
           <td></td>
       </tr>
@@ -72,7 +72,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230308</a>
+            <a href="./ALGO_230308">ALGO_230308</a>
           </td>
           <td></td>
       </tr> 
@@ -93,7 +93,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230322</a>
+            <a href="./ALGO_230322">ALGO_230322</a>
           </td>
           <td></td>
       </tr> 
@@ -114,7 +114,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230329</a>
+            <a href="./ALGO_230329">ALGO_230329</a>
           </td>
           <td></td>
       </tr> 
@@ -132,7 +132,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230409</a>
+            <a href="./ALGO_230409">ALGO_230409</a>
           </td>
           <td></td>
       </tr> 
@@ -153,7 +153,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230416</a>
+            <a href="./ALGO_230416">ALGO_230416</a>
           </td>
           <td></td>
       </tr> 
@@ -174,7 +174,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230423</a>
+            <a href="./ALGO_230423">ALGO_230423</a>
           </td>
           <td></td>
       </tr> 
@@ -195,7 +195,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230430</a>
+            <a href="./ALGO_230430">ALGO_230430</a>
           </td>
           <td></td>
       </tr> 
@@ -213,7 +213,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230521</a>
+            <a href="./ALGO_230521">ALGO_230521</a>
           </td>
           <td></td>
       </tr> 
@@ -231,7 +231,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230528</a>
+            <a href="./ALGO_230528">ALGO_230528</a>
           </td>
           <td></td>
       </tr> 
@@ -252,7 +252,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230604</a>
+            <a href="./ALGO_230604">ALGO_230604</a>
           </td>
           <td></td>
       </tr>  
@@ -270,7 +270,7 @@
             </ul>
           </td>
           <td>
-            <a href="./230626">ALGO_230626</a>
+            <a href="./ALGO_230626">ALGO_230626</a>
           </td>
           <td>보충 알고리즘 (못 푼 문제 택 2)</td>
       </tr>                
@@ -297,7 +297,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230709</a>
+            <a href="./ALGO_230709">ALGO_230709</a>
           </td>
           <td>보충 알고리즘 (못 푼 문제 택 2)</td>
       </tr>      
@@ -318,7 +318,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230715</a>
+            <a href="./ALGO_230715">ALGO_230715</a>
           </td>
           <td></td>
       </tr>      
@@ -342,7 +342,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230723</a>
+            <a href="./ALGO_230723">ALGO_230723</a>
           </td>
           <td></td>
       </tr>      
@@ -366,7 +366,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230730</a>
+            <a href="./ALGO_230730">ALGO_230730</a>
           </td>
           <td></td>
       </tr>      
@@ -393,7 +393,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230813</a>
+            <a href="./ALGO_230813">ALGO_230813</a>
           </td>
           <td></td>
       </tr>      
@@ -417,7 +417,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230820</a>
+            <a href="./ALGO_230820">ALGO_230820</a>
           </td>
           <td></td>
       </tr>      
@@ -441,7 +441,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230902</a>
+            <a href="./ALGO_230902">ALGO_230902</a>
           </td>
           <td></td>
       </tr>     
@@ -465,7 +465,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230917</a>
+            <a href="./ALGO_230917">ALGO_230917</a>
           </td>
           <td></td>
       </tr>     
@@ -489,7 +489,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_230924</a>
+            <a href="./ALGO_230924">ALGO_230924</a>
           </td>
           <td></td>
       </tr>     
@@ -513,7 +513,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_231007</a>
+            <a href="./ALGO_231007">ALGO_231007</a>
           </td>
           <td></td>
       </tr>     
@@ -540,7 +540,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_231015</a>
+            <a href="./ALGO_231015">ALGO_231015</a>
           </td>
           <td></td>
       </tr>          
@@ -567,7 +567,7 @@
             </ul>
           </td>
           <td>
-            <a href="#">ALGO_231022</a>
+            <a href="./ALGO_231022">ALGO_231022</a>
           </td>
           <td></td>
       </tr>               
