@@ -70,4 +70,80 @@ class Solution {
     }       
 }
 
+/*
+크루스칼 알고리즘을 이용한 풀이
+*/
 
+/*
+import java.util.*;
+
+class Solution {
+       	
+    class Edge implements Comparable<Edge>{
+        int from, to, weight;
+        public Edge(int from, int to, int weight){
+            this.from = from;
+            this.to = to;
+            this.weight = weight;
+        }
+        @Override
+        public int compareTo(Edge o){
+            return this.weight - o.weight;
+        }
+    }
+    
+    // union-find
+    static int[] parents;
+    static int V, E;
+    static Edge[] edgeList;
+    static void make(int v){
+        parents = new int[v];
+        for(int i = 0 ; i < V ; i ++){
+            parents[i] = i;
+        }
+    }
+    
+    static int find(int a){
+        if(parents[a] == a) return a;
+        return parents[a] = find(parents[a]);
+    }
+    static boolean union(int a, int b){
+        int aRoot = find(a);
+        int bRoot = find(b);
+        if(aRoot == bRoot) return false;
+        parents[bRoot] = aRoot;
+        return true;
+    }
+    
+    
+    
+    public int solution(int n, int[][] costs) {        
+                
+        this.V = n;
+        this.E = costs.length;
+		edgeList = new Edge[E];
+		
+		for(int i = 0 ; i < E ; i ++) {
+			int from = costs[i][0];
+			int to = costs[i][1];
+			int weight = costs[i][2];
+			edgeList[i] = new Edge(from ,to, weight);
+		}
+		
+		make(n);
+		Arrays.sort(edgeList);
+        
+        int answer = 0;
+        int cnt = 0;
+		
+        for(Edge e : edgeList){
+            if(union(e.from, e.to)){
+                answer += e.weight;
+                if(++cnt == V-1) break;
+            }
+        }
+              
+        return answer;
+    }       
+}
+*/
