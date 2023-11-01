@@ -570,7 +570,34 @@
             <a href="./ALGO_231022">ALGO_231022</a>
           </td>
           <td></td>
-      </tr>               
+      </tr>   
+      <tr>
+          <td>25</td>
+          <td>2023-11-05</td>          
+          <td>
+            <ul>
+              <li>
+                <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131116">식품분류별 가장 비싼 식품의 정보 조회하기</a>
+              </li>
+              <li>
+                <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59410?language=mysql">NULL 처리하기</a>
+              </li>
+              <li>
+                <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a>
+              </li>              
+              <li>
+                <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">큰 수 만들기</a>
+              </li>
+              <li>
+                <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43164">여행경로</a>
+              </li>                
+            </ul>
+          </td>
+          <td>
+            <a href="./ALGO_231105">ALGO_231105</a>
+          </td>
+          <td></td>
+      </tr>             
       <!-- 복사용 탬플릿 -->
       <!--
       <tr>
